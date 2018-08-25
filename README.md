@@ -1,2 +1,2 @@
 # static-timer-component
-# react-credit-card
+# react-credit-car
