@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import Timer from "./App";
+import Time from "./Time";
 import registerServiceWorker from "./registerServiceWorker";
-ReactDOM.render(<Timer />, document.getElementById("root"));
+ReactDOM.render(<Time />, document.getElementById("root"));
 registerServiceWorker();

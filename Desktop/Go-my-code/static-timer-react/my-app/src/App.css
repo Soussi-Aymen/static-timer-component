@@ -12,3 +12,8 @@
   font-size: large;
   color: #a9a9a9;
 }
+
+.button-list {
+  display: flex;
+  justify-content: center;
+}
